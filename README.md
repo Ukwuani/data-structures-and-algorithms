@@ -36,4 +36,4 @@ Request an invite here: [techqueria.org/slack](https://techqueria.org/communitie
 
 Follow along with the community on the `#data-and-algorithms` channel on our Slack 
 
-Make sure to also check out our `#python` `#ruby` `#javascript` and `#golang` channels while you're there
+Make sure to also check out our `#python` `#ruby` `#javascript` `#golang` and `#kotlin` channels while you're there
